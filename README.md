@@ -40,9 +40,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 Hi there! I’m Habib Aidara 👋
 I’m an IT professional specialized in Data (Business Intelligence,Data Scientist and Data Analysis)  with a strong data-driven mindset.
 
-I am passionate about designing high-performing and scalable data solutions that transform raw data into actionable insights, driving business performance and innovation.
-
-Let's stay in touch! Feel free to connect with me on the following platforms:
+My mission is to design high-performing and scalable data solutions that transform raw data into actionable insights, driving business performance and innovation.
 
 
 
