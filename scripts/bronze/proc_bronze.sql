@@ -145,7 +145,7 @@ BEGIN
 	END CATCH
 END
 
-
+--------------------------------------------------------------------------
 SELECT * FROM bronze.crm_cust_info;
 SELECT COUNT(*) FROM bronze.crm_cust_info;
 SELECT * FROM bronze.erp_cust_az12;
